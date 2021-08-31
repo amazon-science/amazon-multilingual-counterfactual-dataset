@@ -1,4 +1,4 @@
-### TODO
+### TODO: populate the readme
 
 ### Arxiv paper link 
 https://arxiv.org/abs/2104.06893
