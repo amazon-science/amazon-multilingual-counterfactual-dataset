@@ -24,4 +24,3 @@ If you use this dataset in your research, please cite the paper.
 ### License Summary
 
 The documentation is made available under the Creative Commons Attribution-ShareAlike 4.0 International License. See the LICENSE file.
-![image](https://user-images.githubusercontent.com/89762863/131615682-0a1ab7ef-43fe-4d7f-a210-42adfe606384.png)
