@@ -12,7 +12,7 @@ The key features of this dataset are:
 
 * The dataset is multilingual and contains sentences in English, German, and Japanese.
 * The labeling was done by professional linguists and high quality was ensured.
-* The dataset is supplemented with the annotation guidelines and definitions, which were worked out by professional linguists. As well as the clue word lists, which are typical for counterfactual sentences and were used for initial data filtering. The clue word lists were also compiled by professional linguists. 
+* The dataset is supplemented with the annotation guidelines and definitions, which were worked out by professional linguists. We also provide the clue word lists, which are typical for counterfactual sentences and were used for initial data filtering. The clue word lists were also compiled by professional linguists. 
 
  Please see paper for the data statistics, detailed description of data collection and annotation.
 
