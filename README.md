@@ -15,6 +15,7 @@ The key features of this dataset are:
 * The dataset is supplemented with the annotation guidelines and definitions, which were worked out by professional linguists. We also provide the clue word lists, which are typical for counterfactual sentences and were used for initial data filtering. The clue word lists were also compiled by professional linguists. 
 
  Please see paper for the data statistics, detailed description of data collection and annotation.
+ 
  For the dataset format please see README.txt.
 
 
